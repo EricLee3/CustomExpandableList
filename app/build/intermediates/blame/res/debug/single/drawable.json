@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/rightcheck.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/rightcheck.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/setting2.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/setting2.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/bar_bg.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/bar_bg.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/setting3.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/setting3.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/line.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/line.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/setting4.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/setting4.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/button_check.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/button_check.png"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/drawable/setting1.png",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/drawable/setting1.png"
+    }
+]

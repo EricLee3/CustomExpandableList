@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/layout/childrow.xml",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/layout/childrow.xml"
+    },
+    {
+        "merged": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/build/intermediates/res/merged/debug/layout/grouprow.xml",
+        "source": "/Users/in.lee/AndroidStudioProjects/CustomExpandableList1/app/src/main/res/layout/grouprow.xml"
+    }
+]
